@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+#title{
+    font-size: 50px;
+    font-family: 'Balsamiq Sans';
+}
+p{
+    font-family: 'Balsamiq Sans';
+}
+#camera{
+    border: 2px dashed;
+}
+button{
+     background-color: slategray;
+     border: 0px;
+     border-radius: 20px;
+     font-size: 20px;
+     padding: 10px;
+     font-family: 'Balsamiq Sans';
+}
+#result_object_name{
+    font-weight: bold;
+    font-family: 'Balsamiq Sans';
+}
+#result_object_accuracy{
+    font-weight: bold;
+    font-family: 'Balsamiq Sans';
+}
